@@ -12,3 +12,12 @@
 	height: 60px;
 	padding: 5px 0px;
 }
+
+body {
+  background-color: #111;
+  color: white;
+}
+
+svg {
+  background-color: #1a1a1a;
+}
